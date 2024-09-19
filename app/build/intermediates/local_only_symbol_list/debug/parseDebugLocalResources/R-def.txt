@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable _711665
+drawable _d_medical_elements_with_medicines_23_2151202555
+drawable applesignin
+drawable doctor1
+drawable doctor2
+drawable facebookicon
+drawable googlesignin
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable picture_doctor_with_glasses_stethoscope_1103290_112851
+drawable png_transparent_profile_logo_computer_icons_user_user_blue_heroes_logo
+drawable pngtree_medical_capsule_medicine_image_2242252
+drawable pngtree_two_medicine_blue_capsules_png_image_2608134
+drawable user_member_avatar_face_profile_icon_vector_22965342
+drawable useric
+drawable voicesearxh
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Medi_map
+xml backup_rules
+xml data_extraction_rules
